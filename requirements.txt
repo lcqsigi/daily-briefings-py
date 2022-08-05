@@ -11,6 +11,9 @@ requests
 sendgrid==6.6.0
 flask
 
+#heroku needs this package
+gunicorn
+
 #
 # TEST
 #
